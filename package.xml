@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Instant Ancient Books</title>
+  <id>omegaplatinum.elin.instantancientbooks</id>
+  <author>OmegaPlatinum</author>
+  <loadPriority>100</loadPriority>
+  <description>
+    Instantly decode ancient books with customizable duration settings.
+
+    - Overrides the duration for decoding ancient books to a user-defined value.
+    - Allows users to enable or disable the mod as needed.
+
+    [h1] Configuration Variables [/h1]
+
+    [h2] Enable Instant Ancient Books [/h2]
+    Enable or disable the Instant Ancient Books mod.
+    [code] Default: true [/code]
+
+    [h2] Duration Value [/h2]
+    Set the duration value for decoding ancient books. Lower values make decoding faster.
+    [code] Default: 1 [/code]
+    
+    [h1] Configuration File Location [/h1]
+    [code] Steam\steamapps\common\Elin\BepInEx\config\omegaplatinum.elin.instantancientbooks.cfg [/code]
+
+    古代の本を瞬時に解読することができます。
+
+    - ユーザーが定義した値に基づいて、古代の本の解読時間を上書きします。
+    - 必要に応じてMODを有効または無効にすることができます。
+
+    [h1] 設定変数 [/h1]
+
+    [h2] 瞬時に古代の本を有効化 [/h2]
+    瞬時に古代の本MODを有効または無効にします。
+    [code] デフォルト: true [/code]
+
+    [h2] 解読時間の値 [/h2]
+    古代の本の解読時間を設定します。値が低いほど解読が速くなります。
+    [code] デフォルト: 1 [/code]
+
+    [h1] 設定ファイルの場所 [/h1]
+    [code] Steam\steamapps\common\Elin\BepInEx\config\omegaplatinum.elin.instantancientbooks.cfg [/code]
+  </description>
+  <version>0.23.42</version>
+</Meta>
